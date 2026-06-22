@@ -9,185 +9,87 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Outside of Work</title><link>https://taliaxu.com/outside-of-work/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://taliaxu.com/outside-of-work/</guid><description>&lt;p>Outside of work, I try to keep a few long-standing interests alive. I spend much of my free time reading about politics and history and, whenever I can, sketching portraits and figures. Here are a few examples of my work.&lt;/p>
-&lt;div class="art-carousel" data-art-carousel tabindex="0" role="region" aria-roledescription="carousel" aria-label="Artwork samples">
-&lt;div class="art-carousel__viewport">
-&lt;figure class="art-carousel__slide is-active" data-art-slide aria-hidden="false">
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Outside of Work</title><link>https://taliaxu.com/outside-of-work/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://taliaxu.com/outside-of-work/</guid><description>&lt;p>Outside of work, I try to keep some of my hobbies alive. I spend my free time reading about politics and history, and I also like sketching portraits and figures.&lt;/p>
+&lt;div class="art-grid" role="list" aria-label="Portrait and figure drawings">
+&lt;figure class="art-grid__item" role="listitem">
 &lt;img
-src="https://taliaxu.com/media/albums/outside-of-work/painted-profile_hud621f13b61a8a9f0610e523b8751258f_159365_720x540_fit_q82_h2_lanczos.webp"
-width="243"
-height="540"
+src="https://taliaxu.com/media/albums/outside-of-work/painted-profile_hud621f13b61a8a9f0610e523b8751258f_159365_320x400_fill_q82_h2_lanczos_center.webp"
+width="320"
+height="400"
 alt="Painted profile portrait on an easel"
-loading="eager"
+loading="lazy"
 >
 &lt;/figure>
-&lt;figure class="art-carousel__slide" data-art-slide aria-hidden="true">
+&lt;figure class="art-grid__item" role="listitem">
 &lt;img
-src="https://taliaxu.com/media/albums/outside-of-work/charcoal-portrait_hu556f9e06fd7aa2afa8991713e42c56d1_295663_720x540_fit_q82_h2_lanczos.webp"
-width="528"
-height="540"
+src="https://taliaxu.com/media/albums/outside-of-work/charcoal-portrait_hu556f9e06fd7aa2afa8991713e42c56d1_295663_320x400_fill_q82_h2_lanczos_center.webp"
+width="320"
+height="400"
 alt="Charcoal portrait study"
 loading="lazy"
 >
 &lt;/figure>
-&lt;figure class="art-carousel__slide" data-art-slide aria-hidden="true">
+&lt;figure class="art-grid__item" role="listitem">
 &lt;img
-src="https://taliaxu.com/media/albums/outside-of-work/figure-study_hu6f5e2bb63dab7b95ae503154dadb0b76_112889_720x540_fit_q82_h2_lanczos.webp"
-width="304"
-height="540"
+src="https://taliaxu.com/media/albums/outside-of-work/figure-study_hu6f5e2bb63dab7b95ae503154dadb0b76_112889_320x400_fill_q82_h2_lanczos_center.webp"
+width="320"
+height="400"
 alt="Charcoal figure study"
 loading="lazy"
 >
 &lt;/figure>
-&lt;figure class="art-carousel__slide" data-art-slide aria-hidden="true">
+&lt;figure class="art-grid__item" role="listitem">
 &lt;img
-src="https://taliaxu.com/media/albums/outside-of-work/sketchbook-portrait_hu99bd4452af451fdd760c47244a56d242_157778_720x540_fit_q82_h2_lanczos.webp"
-width="405"
-height="540"
+src="https://taliaxu.com/media/albums/outside-of-work/sketchbook-portrait_hu99bd4452af451fdd760c47244a56d242_157778_320x400_fill_q82_h2_lanczos_center.webp"
+width="320"
+height="400"
 alt="Portrait drawing in a sketchbook"
 loading="lazy"
 >
 &lt;/figure>
-&lt;figure class="art-carousel__slide" data-art-slide aria-hidden="true">
+&lt;figure class="art-grid__item" role="listitem">
 &lt;img
-src="https://taliaxu.com/media/albums/outside-of-work/reclining-portrait_hu1c2bcd6de41f58d3583bb6271074ccbb_60644_720x540_fit_q82_h2_lanczos.webp"
-width="243"
-height="540"
+src="https://taliaxu.com/media/albums/outside-of-work/reclining-portrait_hu1c2bcd6de41f58d3583bb6271074ccbb_60644_320x400_fill_q82_h2_lanczos_center.webp"
+width="320"
+height="400"
 alt="Reclining portrait drawing in a sketchbook"
 loading="lazy"
 >
 &lt;/figure>
 &lt;/div>
-&lt;div class="art-carousel__controls">
-&lt;button type="button" class="art-carousel__button" data-art-previous aria-label="Show previous artwork">&amp;larr; Previous&lt;/button>
-&lt;span class="art-carousel__counter" aria-live="polite">&lt;span data-art-current>1&lt;/span> / 5&lt;/span>
-&lt;button type="button" class="art-carousel__button" data-art-next aria-label="Show next artwork">Next &amp;rarr;&lt;/button>
-&lt;/div>
-&lt;/div>
 &lt;style>
-.art-carousel {
+.art-grid {
+display: grid;
+grid-template-columns: repeat(5, minmax(0, 1fr));
+gap: 0.75rem;
 width: 100%;
-max-width: 620px;
-margin: 2rem auto 0;
-outline: none;
+margin: 1.5rem 0 0;
 }
-.art-carousel:focus-visible {
-outline: 2px solid #1565c0;
-outline-offset: 6px;
-}
-.art-carousel__viewport {
-display: flex;
-min-height: 360px;
-align-items: center;
-justify-content: center;
-padding: 1rem;
+.art-grid__item {
+margin: 0;
 overflow: hidden;
-border-radius: 0.5rem;
+border-radius: 0.3rem;
 background: rgba(127, 127, 127, 0.08);
 }
-.art-carousel__slide {
-display: none;
+.art-grid__item img {
+display: block;
 width: 100%;
-margin: 0;
-}
-.art-carousel__slide.is-active {
-display: block;
-}
-.art-carousel__slide img {
-display: block;
-width: auto;
-max-width: 100%;
 height: auto;
-max-height: 500px;
-margin: 0 auto;
-object-fit: contain;
-border-radius: 0.25rem;
+aspect-ratio: 4 / 5;
+object-fit: cover;
 }
-.art-carousel__controls {
-display: grid;
-grid-template-columns: 1fr auto 1fr;
-gap: 1rem;
-align-items: center;
-margin-top: 1rem;
-}
-.art-carousel__button {
-padding: 0.5rem 0.85rem;
-border: 1px solid #1565c0;
-border-radius: 0.3rem;
-background: transparent;
-color: #1565c0;
-font: inherit;
-cursor: pointer;
-}
-.art-carousel__button:first-child {
-justify-self: start;
-}
-.art-carousel__button:last-child {
-justify-self: end;
-}
-.art-carousel__button:hover,
-.art-carousel__button:focus-visible {
-background: #1565c0;
-color: #fff;
-}
-.art-carousel__counter {
-min-width: 3.5rem;
-text-align: center;
-}
-@media (max-width: 576px) {
-.art-carousel {
-max-width: 100%;
-}
-.art-carousel__viewport {
-min-height: 300px;
-padding: 0.75rem;
-}
-.art-carousel__slide img {
-max-height: 400px;
-}
-.art-carousel__controls {
-gap: 0.5rem;
-}
-.art-carousel__button {
-padding: 0.45rem 0.65rem;
+@media (max-width: 800px) {
+.art-grid {
+grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 }
-&lt;/style>
-&lt;script>
-(function () {
-document.querySelectorAll('[data-art-carousel]').forEach(function (carousel) {
-if (carousel.dataset.ready === 'true') return;
-carousel.dataset.ready = 'true';
-var slides = Array.prototype.slice.call(carousel.querySelectorAll('[data-art-slide]'));
-var current = carousel.querySelector('[data-art-current]');
-var index = 0;
-function show(nextIndex) {
-index = (nextIndex + slides.length) % slides.length;
-slides.forEach(function (slide, slideIndex) {
-var active = slideIndex === index;
-slide.classList.toggle('is-active', active);
-slide.setAttribute('aria-hidden', active ? 'false' : 'true');
-});
-current.textContent = String(index + 1);
+@media (max-width: 480px) {
+.art-grid {
+grid-template-columns: repeat(2, minmax(0, 1fr));
+gap: 0.6rem;
 }
-carousel.querySelector('[data-art-previous]').addEventListener('click', function () {
-show(index - 1);
-});
-carousel.querySelector('[data-art-next]').addEventListener('click', function () {
-show(index + 1);
-});
-carousel.addEventListener('keydown', function (event) {
-if (event.key === 'ArrowLeft') {
-event.preventDefault();
-show(index - 1);
-} else if (event.key === 'ArrowRight') {
-event.preventDefault();
-show(index + 1);
 }
-});
-});
-}());
-&lt;/script></description></item><item><title>Teaching and Supervision</title><link>https://taliaxu.com/teaching-and-supervision/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://taliaxu.com/teaching-and-supervision/</guid><description>&lt;h2 id="teaching">Teaching&lt;/h2>
+&lt;/style></description></item><item><title>Teaching and Supervision</title><link>https://taliaxu.com/teaching-and-supervision/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://taliaxu.com/teaching-and-supervision/</guid><description>&lt;h2 id="teaching">Teaching&lt;/h2>
 &lt;p>I primarily teach systems courses across Levels 2, 3, and 4, including CS210, CS340, SE370, and CS742.&lt;/p>
 &lt;h2 id="current-students">Current Students&lt;/h2>
 &lt;ul>
