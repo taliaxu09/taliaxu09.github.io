@@ -58,7 +58,7 @@ loading="lazy"
 &lt;/figure>
 &lt;figure class="art-grid__item" role="listitem">
 &lt;img
-src="https://taliaxu.com/media/albums/outside-of-work/bearded-portrait_hu097eff116bb24b6c95c75fef5a87f81a_93728_320x400_fill_q82_h2_lanczos_center.webp"
+src="https://taliaxu.com/media/albums/outside-of-work/bearded-portrait_hu097eff116bb24b6c95c75fef5a87f81a_93728_320x400_fill_q82_h2_lanczos_top.webp"
 width="320"
 height="400"
 alt="Charcoal portrait of a bearded man"
@@ -70,7 +70,8 @@ loading="lazy"
 .art-grid {
 display: grid;
 grid-template-columns: repeat(3, minmax(0, 1fr));
-gap: 0.75rem;
+column-gap: 0.75rem;
+row-gap: 0.3rem;
 width: 100%;
 margin: 1.5rem 0 0;
 }
@@ -90,7 +91,8 @@ object-fit: cover;
 @media (max-width: 480px) {
 .art-grid {
 grid-template-columns: repeat(2, minmax(0, 1fr));
-gap: 0.6rem;
+column-gap: 0.6rem;
+row-gap: 0.3rem;
 }
 }
 &lt;/style></description></item><item><title>Teaching and Supervision</title><link>https://taliaxu.com/teaching-and-supervision/</link><pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate><guid>https://taliaxu.com/teaching-and-supervision/</guid><description>&lt;h2 id="teaching">Teaching&lt;/h2>
