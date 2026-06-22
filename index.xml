@@ -117,18 +117,18 @@ gap: 0.6rem;
 &lt;/ul>
 &lt;h2 id="former-students">Former Students&lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>Rye Chen&lt;/strong> (MSc, 2025) — &lt;em>Animal Re-Identification on Microcontrollers&lt;/em>&lt;/li>
-&lt;li>&lt;strong>James Xing&lt;/strong> (MAI, 2025) — &lt;em>Ultrasonic Reservoir Computing in Poroelastic Media: Sequence Classification and Fading Memory&lt;/em>&lt;/li>
-&lt;li>&lt;strong>Kuviraj Sandhu&lt;/strong> (Honours, 2025) — &lt;em>Investigating the Efficiency of Microcontrollers in Visible Light Communication&lt;/em>&lt;/li>
+&lt;li>Rye Chen (MSc, 2025) — &lt;em>Animal Re-Identification on Microcontrollers&lt;/em>&lt;/li>
+&lt;li>James Xing (MAI, 2025) — &lt;em>Ultrasonic Reservoir Computing in Poroelastic Media: Sequence Classification and Fading Memory&lt;/em>&lt;/li>
+&lt;li>Kuviraj Sandhu (Honours, 2025) — &lt;em>Investigating the Efficiency of Microcontrollers in Visible Light Communication&lt;/em>&lt;/li>
 &lt;/ul>
 &lt;h2 id="part-iv-projects">Part IV Projects&lt;/h2>
 &lt;ul>
+&lt;li>&lt;a href="https://part4project.foe.auckland.ac.nz/home/project/detail/6040/" target="_blank" rel="noopener">(2026) Gamifying self-care using wearable technology&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://part4project.foe.auckland.ac.nz/home/project/detail/5980/" target="_blank" rel="noopener">(2026) RF intelligent reflecting surface using FPGA Interconnects&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://part4project.foe.auckland.ac.nz/home/project/detail/5539/" target="_blank" rel="noopener">(2025) An App for Active Listening and Cognitive Switching&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://part4project.foe.auckland.ac.nz/home/project/detail/5545/" target="_blank" rel="noopener">(2025) Sunlink: Light-Based Wireless Communication Using Sunlight&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://part4project.foe.auckland.ac.nz/home/project/detail/5578/" target="_blank" rel="noopener">(2025) Sunlink II: Light-Based Wireless Communication Using Sunlight&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://part4project.foe.auckland.ac.nz/home/project/detail/5579/" target="_blank" rel="noopener">(2025) A LED-based Wearable Photoacoustic Sensing Platform&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://part4project.foe.auckland.ac.nz/home/project/detail/6040/" target="_blank" rel="noopener">(2026) Gamifying self-care using wearable technology&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://part4project.foe.auckland.ac.nz/home/project/detail/5980/" target="_blank" rel="noopener">(2026) RF intelligent reflecting surface using FPGA Interconnects&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Slides</title><link>https://taliaxu.com/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://taliaxu.com/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
