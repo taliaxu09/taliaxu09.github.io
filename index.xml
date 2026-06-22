@@ -31,7 +31,7 @@ loading="lazy"
 &lt;/figure>
 &lt;figure class="art-grid__item" role="listitem">
 &lt;img
-src="https://taliaxu.com/media/albums/outside-of-work/figure-study_hu6f5e2bb63dab7b95ae503154dadb0b76_112889_320x400_fill_q82_h2_lanczos_center.webp"
+src="https://taliaxu.com/media/albums/outside-of-work/figure-study_hu6f5e2bb63dab7b95ae503154dadb0b76_112889_320x400_fill_q82_h2_lanczos_top.webp"
 width="320"
 height="400"
 alt="Charcoal figure study"
@@ -58,7 +58,7 @@ loading="lazy"
 &lt;/figure>
 &lt;figure class="art-grid__item" role="listitem">
 &lt;img
-src="https://taliaxu.com/media/albums/outside-of-work/bearded-portrait_hu097eff116bb24b6c95c75fef5a87f81a_93728_320x400_fill_q82_h2_lanczos_top.webp"
+src="https://taliaxu.com/media/albums/outside-of-work/bearded-portrait_hu097eff116bb24b6c95c75fef5a87f81a_93728_320x400_fill_q82_h2_lanczos_center.webp"
 width="320"
 height="400"
 alt="Charcoal portrait of a bearded man"
@@ -114,10 +114,32 @@ row-gap: 0.3rem;
 &lt;/ul>
 &lt;h2 id="former-students">Former Students&lt;/h2>
 &lt;ul>
-&lt;li>Rye Chen (MSc, 2025) — &lt;em>Animal Re-Identification on Microcontrollers&lt;/em>&lt;/li>
-&lt;li>James Xing (MAI, 2025) — &lt;em>Ultrasonic Reservoir Computing in Poroelastic Media: Sequence Classification and Fading Memory&lt;/em>&lt;/li>
-&lt;li>Kuviraj Sandhu (Honours, 2025) — &lt;em>Investigating the Efficiency of Microcontrollers in Visible Light Communication&lt;/em>&lt;/li>
+&lt;li>Rye Chen (MSc, 2025)
+&lt;ul>
+&lt;li>&lt;em>Animal Re-Identification on Microcontrollers&lt;/em>&lt;/li>
 &lt;/ul>
+&lt;/li>
+&lt;li>James Xing (MAI, 2025)
+&lt;ul>
+&lt;li>&lt;em>Ultrasonic Reservoir Computing in Poroelastic Media: Sequence Classification and Fading Memory&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Kuviraj Sandhu (Honours, 2025)
+&lt;ul>
+&lt;li>&lt;em>Investigating the Efficiency of Microcontrollers in Visible Light Communication&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;style>
+#former-students + ul > li > ul {
+margin-top: 0.2rem;
+padding-left: 1.5rem;
+list-style: none;
+}
+#former-students + ul > li > ul > li {
+margin-bottom: 0.35rem;
+}
+&lt;/style>
 &lt;h2 id="part-iv-projects">Part IV Projects&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://part4project.foe.auckland.ac.nz/home/project/detail/6040/" target="_blank" rel="noopener">(2026) Gamifying self-care using wearable technology&lt;/a>&lt;/li>
