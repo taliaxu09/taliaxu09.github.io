@@ -140,9 +140,11 @@ list-style: none;
 }
 #former-students + ul > li > ul > li {
 margin-bottom: 0.35rem;
+padding-left: 1.25em;
+text-indent: -1.25em;
 }
 &lt;/style>
-&lt;h2 id="part-iv-projects">Part IV Projects&lt;/h2>
+&lt;h2 id="part-iv-projects-engineering-thesis-projects">Part IV Projects (Engineering thesis Projects)&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://part4project.foe.auckland.ac.nz/home/project/detail/6040/" target="_blank" rel="noopener">(2026) Gamifying self-care using wearable technology&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://part4project.foe.auckland.ac.nz/home/project/detail/5980/" target="_blank" rel="noopener">(2026) RF intelligent reflecting surface using FPGA Interconnects&lt;/a>&lt;/li>
