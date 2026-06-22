@@ -56,11 +56,20 @@ alt="Reclining portrait drawing in a sketchbook"
 loading="lazy"
 >
 &lt;/figure>
+&lt;figure class="art-grid__item" role="listitem">
+&lt;img
+src="https://taliaxu.com/media/albums/outside-of-work/bearded-portrait_hu097eff116bb24b6c95c75fef5a87f81a_93728_320x400_fill_q82_h2_lanczos_center.webp"
+width="320"
+height="400"
+alt="Charcoal portrait of a bearded man"
+loading="lazy"
+>
+&lt;/figure>
 &lt;/div>
 &lt;style>
 .art-grid {
 display: grid;
-grid-template-columns: repeat(5, minmax(0, 1fr));
+grid-template-columns: repeat(6, minmax(0, 1fr));
 gap: 0.75rem;
 width: 100%;
 margin: 1.5rem 0 0;
